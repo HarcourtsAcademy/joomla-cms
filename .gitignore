@@ -4,6 +4,7 @@
 .settings
 .DS_Store
 .idea
+/nbproject
 
 # Local System Files (i.e. cache, logs, etc.) #
 /administrator/cache
@@ -107,3 +108,4 @@ Desktop.ini
 /libraries/vendor/symfony/yaml/Symfony/Component/Yaml/composer.json
 /libraries/vendor/symfony/yaml/Symfony/Component/Yaml/phpunit.xml.dist
 /libraries/vendor/symfony/yaml/Symfony/Component/Yaml/README.md
+/nbproject/private/
